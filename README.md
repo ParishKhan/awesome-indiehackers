@@ -80,6 +80,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Refactoring Growth - Corey Haines](https://swipefiles.com/refactoring-growth)
 - [Build Winning Products - Hiten Shah](https://app.producthabits.com/)
 - [Marketing for Developers - Justin Jackson](https://devmarketing.xyz/)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Workshop for Bootstrappers - Seth Godin](https://udemy.com/course/workshop-for-bootstrappers/)
 - [30x500 Academy - Amy Hoy & Alex Hillman](https://30x500.com)
 - [Practical Customer Development - Rob Fitzpatrick](https://udemy.com/course/practical-customer-development/)
